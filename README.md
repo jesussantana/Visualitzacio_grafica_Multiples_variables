@@ -1,23 +1,23 @@
-# IT Academy - Data Science amb Python
-## Tasca 6A: Visualització gràfica Multiples variables
+# IT Academy - Data Science with Python
+## Task 6A: Graphic display Multiple variables
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
-### Descripció
-Anem a practicar i a familiaritzar-nos amb la Visualització gràfica de Múltiples variables.
+### Description
+Let's practice and become familiar with the Graphic Display of Multiple Variables.
 
 
-### Nivell 1
+### Level 1
 
-- Exercici 1: 
-  - Realitza la pràctica del punt 3.4 del notebook a GitHub "03 EXAMINING DATA" amb seaborn i el dataset "tips".
+- Exercise 1: 
+  - Practice point 3.4 of the notebook on GitHub "03 EXAMINING DATA" with seaborn and the dataset "tips".
   
-### Nivell 2
+### Level 2
 
-- Exercici 2: 
-  - Repeteix l'exercici 1 amb el dataset que disposem en el repositori de GitHub PRE-PROCESSING-DATA, movies.dat
+- Exercise 2: 
+  - Repeat exercise 1 with the dataset we have in the GitHub PRE-PROCESSING-DATA repository, movies.dat
 
-### Nivell 3
+### Level 3
 
-- Exercici 3: 
-  - Mostreu-me la teva creativitat, Sorprèn-me amb el dataset "movies.dat" del exercici anterior.
+- Exercise 3: 
+  - Show me your creativity, Surprise me with the "movies.dat" dataset from the previous exercise..
